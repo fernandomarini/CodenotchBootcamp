@@ -1,0 +1,19 @@
+{
+  "name": "codenotchbootcamp-gitreto1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fernandomarini/CodenotchBootcamp-GitReto1.git"
+  },
+  "author": "ferms114",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fernandomarini/CodenotchBootcamp-GitReto1/issues"
+  },
+  "homepage": "https://github.com/fernandomarini/CodenotchBootcamp-GitReto1#readme"
+}
